@@ -1,0 +1,13 @@
+{
+  "name": "discord-trigger-bot",
+  "version": "1.0.0",
+  "description": "A Discord trigger-response automation script for bot-hosting.net",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "djs-selfbot-v13": "^3.7.28",
+    "dotenv": "^16.6.1"
+  }
+}
